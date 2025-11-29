@@ -2,6 +2,8 @@
 
 This repository contains my solutions for the labs of 50.020 Network Security, which includes those from SEED Labs.
 
+Note that Lab 8 is not from SEED Labs and involves the use of suricata, a NIDS.
+
 They can be found in the PDF files with "Report" in their name within their respective lab folders.
 
 ## Grades
@@ -17,6 +19,8 @@ They can be found in the PDF files with "Report" in their name within their resp
 - Lab 5: Firewall Exploration
 	- 5/5
 - Lab 6: CSRF and XSS
+	- 5/5
+- Lab 7: Virtual Private Network (VPN) 
 	- grading
-- Lab 7: VPN 
+- Lab 8: Intrusion Detection System (IDS)
 	- grading

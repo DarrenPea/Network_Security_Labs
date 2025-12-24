@@ -23,4 +23,4 @@ They can be found in the PDF files with "Report" in their name within their resp
 - Lab 7: Virtual Private Network (VPN) 
 	- 5/5
 - Lab 8: Intrusion Detection System (IDS)
-	- grading
+	- 6/5
